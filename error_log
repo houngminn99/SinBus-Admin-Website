@@ -1,0 +1,53 @@
+[22-Jun-2021 14:30:25 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/lancedev/public_html/travel/schedule.php on line 1395
+[22-Jun-2021 14:30:45 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/lancedev/public_html/travel/schedule.php on line 1395
+[22-Jun-2021 14:30:46 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/lancedev/public_html/travel/schedule.php on line 1395
+[22-Jun-2021 14:30:53 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/lancedev/public_html/travel/schedule.php on line 1395
+[22-Jun-2021 14:31:30 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/lancedev/public_html/travel/schedule.php on line 1397
+[22-Jun-2021 14:42:25 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/lancedev/public_html/travel/schedule.php on line 609
+[22-Jun-2021 15:32:51 UTC] PHP Parse error:  syntax error, unexpected 'display' (T_STRING), expecting ',' or ';' in /home/lancedev/public_html/travel/schedule.php on line 646
+[22-Jun-2021 15:32:54 UTC] PHP Parse error:  syntax error, unexpected 'display' (T_STRING), expecting ',' or ';' in /home/lancedev/public_html/travel/schedule.php on line 646
+[22-Jun-2021 15:33:31 UTC] PHP Parse error:  syntax error, unexpected 'display' (T_STRING), expecting ',' or ';' in /home/lancedev/public_html/travel/schedule.php on line 646
+[22-Jun-2021 15:33:34 UTC] PHP Parse error:  syntax error, unexpected 'display' (T_STRING), expecting ',' or ';' in /home/lancedev/public_html/travel/schedule.php on line 646
+[22-Jun-2021 15:33:34 UTC] PHP Parse error:  syntax error, unexpected 'display' (T_STRING), expecting ',' or ';' in /home/lancedev/public_html/travel/schedule.php on line 646
+[22-Jun-2021 15:33:34 UTC] PHP Parse error:  syntax error, unexpected 'display' (T_STRING), expecting ',' or ';' in /home/lancedev/public_html/travel/schedule.php on line 646
+[22-Jun-2021 15:34:13 UTC] PHP Parse error:  syntax error, unexpected 'display' (T_STRING), expecting ',' or ';' in /home/lancedev/public_html/travel/schedule.php on line 646
+[22-Jun-2021 15:34:31 UTC] PHP Parse error:  syntax error, unexpected 'display' (T_STRING), expecting ',' or ';' in /home/lancedev/public_html/travel/schedule.php on line 646
+[22-Jun-2021 15:34:36 UTC] PHP Parse error:  syntax error, unexpected 'display' (T_STRING), expecting ',' or ';' in /home/lancedev/public_html/travel/schedule.php on line 646
+[22-Jun-2021 15:39:42 UTC] PHP Parse error:  syntax error, unexpected 'display' (T_STRING), expecting ',' or ';' in /home/lancedev/public_html/travel/schedule.php on line 643
+[23-Jun-2021 16:37:50 UTC] PHP Parse error:  syntax error, unexpected 'video' (T_STRING), expecting ',' or ';' in /home/lancedev/public_html/travel/companylist.php on line 123
+[23-Jun-2021 16:37:51 UTC] PHP Parse error:  syntax error, unexpected 'video' (T_STRING), expecting ',' or ';' in /home/lancedev/public_html/travel/companylist.php on line 123
+[23-Jun-2021 16:37:51 UTC] PHP Parse error:  syntax error, unexpected 'video' (T_STRING), expecting ',' or ';' in /home/lancedev/public_html/travel/companylist.php on line 123
+[23-Jun-2021 16:37:53 UTC] PHP Parse error:  syntax error, unexpected 'video' (T_STRING), expecting ',' or ';' in /home/lancedev/public_html/travel/companylist.php on line 123
+[23-Jun-2021 16:37:53 UTC] PHP Parse error:  syntax error, unexpected 'video' (T_STRING), expecting ',' or ';' in /home/lancedev/public_html/travel/companylist.php on line 123
+[23-Jun-2021 16:37:53 UTC] PHP Parse error:  syntax error, unexpected 'video' (T_STRING), expecting ',' or ';' in /home/lancedev/public_html/travel/companylist.php on line 123
+[23-Jun-2021 16:37:53 UTC] PHP Parse error:  syntax error, unexpected 'video' (T_STRING), expecting ',' or ';' in /home/lancedev/public_html/travel/companylist.php on line 123
+[23-Jun-2021 16:39:11 UTC] PHP Parse error:  syntax error, unexpected 'video' (T_STRING), expecting ',' or ';' in /home/lancedev/public_html/travel/companylist.php on line 123
+[24-Jun-2021 17:36:23 UTC] PHP Parse error:  syntax error, unexpected 'center' (T_STRING), expecting ',' or ';' in /home/lancedev/public_html/travel/admin_schedule.php on line 235
+[24-Jun-2021 18:33:08 UTC] PHP Parse error:  syntax error, unexpected '$schedulePrice' (T_VARIABLE) in /home/lancedev/public_html/travel/admin_schedule.php on line 335
+[24-Jun-2021 18:33:11 UTC] PHP Parse error:  syntax error, unexpected '$schedulePrice' (T_VARIABLE) in /home/lancedev/public_html/travel/admin_schedule.php on line 335
+[27-Jun-2021 12:47:32 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/lancedev/public_html/travel/admin_companylist.php on line 544
+[27-Jun-2021 12:47:34 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/lancedev/public_html/travel/admin_companylist.php on line 544
+[27-Jun-2021 12:47:35 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/lancedev/public_html/travel/admin_companylist.php on line 544
+[27-Jun-2021 13:07:41 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/lancedev/public_html/travel/admin_companylist.php on line 555
+[27-Jun-2021 18:19:32 UTC] PHP Parse error:  syntax error, unexpected '_blank' (T_STRING), expecting ',' or ';' in /home/lancedev/public_html/travel/admin_companylist.php on line 528
+[27-Jun-2021 18:19:34 UTC] PHP Parse error:  syntax error, unexpected '_blank' (T_STRING), expecting ',' or ';' in /home/lancedev/public_html/travel/admin_companylist.php on line 528
+[27-Jun-2021 18:19:34 UTC] PHP Parse error:  syntax error, unexpected '_blank' (T_STRING), expecting ',' or ';' in /home/lancedev/public_html/travel/admin_companylist.php on line 528
+[27-Jun-2021 18:19:34 UTC] PHP Parse error:  syntax error, unexpected '_blank' (T_STRING), expecting ',' or ';' in /home/lancedev/public_html/travel/admin_companylist.php on line 528
+[27-Jun-2021 18:19:37 UTC] PHP Parse error:  syntax error, unexpected '_blank' (T_STRING), expecting ',' or ';' in /home/lancedev/public_html/travel/admin_companylist.php on line 528
+[27-Jun-2021 18:19:39 UTC] PHP Parse error:  syntax error, unexpected '_blank' (T_STRING), expecting ',' or ';' in /home/lancedev/public_html/travel/admin_companylist.php on line 528
+[27-Jun-2021 18:19:43 UTC] PHP Parse error:  syntax error, unexpected '_blank' (T_STRING), expecting ',' or ';' in /home/lancedev/public_html/travel/admin_companylist.php on line 528
+[27-Jun-2021 18:19:44 UTC] PHP Parse error:  syntax error, unexpected '_blank' (T_STRING), expecting ',' or ';' in /home/lancedev/public_html/travel/admin_companylist.php on line 528
+[28-Jun-2021 08:53:37 UTC] PHP Parse error:  syntax error, unexpected ',', expecting ']' in /home/lancedev/public_html/travel/history.php on line 464
+[28-Jun-2021 08:53:39 UTC] PHP Parse error:  syntax error, unexpected ',', expecting ']' in /home/lancedev/public_html/travel/history.php on line 464
+[28-Jun-2021 08:54:03 UTC] PHP Parse error:  syntax error, unexpected ',', expecting ']' in /home/lancedev/public_html/travel/history.php on line 464
+[28-Jun-2021 08:54:04 UTC] PHP Parse error:  syntax error, unexpected ',', expecting ']' in /home/lancedev/public_html/travel/history.php on line 464
+[28-Jun-2021 08:54:12 UTC] PHP Parse error:  syntax error, unexpected ',', expecting ']' in /home/lancedev/public_html/travel/history.php on line 464
+[28-Jun-2021 08:54:35 UTC] PHP Parse error:  syntax error, unexpected ',', expecting ']' in /home/lancedev/public_html/travel/history.php on line 464
+[28-Jun-2021 08:54:36 UTC] PHP Parse error:  syntax error, unexpected ',', expecting ']' in /home/lancedev/public_html/travel/history.php on line 464
+[28-Jun-2021 08:54:36 UTC] PHP Parse error:  syntax error, unexpected ',', expecting ']' in /home/lancedev/public_html/travel/history.php on line 464
+[28-Jun-2021 08:54:36 UTC] PHP Parse error:  syntax error, unexpected ',', expecting ']' in /home/lancedev/public_html/travel/history.php on line 464
+[28-Jun-2021 08:54:36 UTC] PHP Parse error:  syntax error, unexpected ',', expecting ']' in /home/lancedev/public_html/travel/history.php on line 464
+[28-Jun-2021 08:54:36 UTC] PHP Parse error:  syntax error, unexpected ',', expecting ']' in /home/lancedev/public_html/travel/history.php on line 464
+[28-Jun-2021 08:54:37 UTC] PHP Parse error:  syntax error, unexpected ',', expecting ']' in /home/lancedev/public_html/travel/history.php on line 464
+[28-Jun-2021 14:15:24 UTC] PHP Parse error:  syntax error, unexpected 'table' (T_STRING), expecting ',' or ';' in /home/lancedev/public_html/travel/schedule.php on line 622
+[28-Jun-2021 14:15:48 UTC] PHP Parse error:  syntax error, unexpected '1' (T_LNUMBER), expecting ',' or ';' in /home/lancedev/public_html/travel/schedule.php on line 622
