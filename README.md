@@ -1,4 +1,7 @@
 # SinBus-Admin-Website
+
+![SinBus Portfolio (1920 × 2160px)](https://github.com/houngminn99/SinBus-Admin-Website/assets/85892109/fe562553-374f-4e84-961e-bc96f5a21a2d)
+
 This website is an online booking bus tickets system website for admin.
 
 Objective: To develop a multimedia database system includes helping the admin to manage the online booking bus ticket system and be easy to use by the administrator.
